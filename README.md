@@ -15,4 +15,7 @@ Backend RESTful API untuk sistem manajemen tugas (*Task Management System*) yang
    ```bash
    npm install
 
+## Kontributor
+
+- Akbar Rizqi Ainul Yaqin
 .
